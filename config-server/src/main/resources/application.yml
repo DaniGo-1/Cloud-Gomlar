@@ -1,0 +1,8 @@
+server:
+  port: 8889
+spring:
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: C:/Users/JorgeGomez/IdeaProjects/cloud-byte/config-server/config-file/
